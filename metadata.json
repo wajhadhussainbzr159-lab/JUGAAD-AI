@@ -1,0 +1,6 @@
+{
+  "name": "JUGAAD AI",
+  "description": "A Smart Solution for Every Problem. Production-ready intelligent AI platform crafted by Wajhad Bozdar featuring Jugaad Mode, Deep Research, Autonomous Agents, Coding Workspace, Study Partner, Creative Studio, and Multilingual Intelligence.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
